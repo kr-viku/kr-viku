@@ -29,7 +29,6 @@ I am a Web Developer.As for the Javascript section on the Frontend, I usually us
   I’m currently working as a Associate Software Engineer at TrakInvest.
 </h1>
 
-----------
 ### Languages & Framekworks & Whatnots
 
 <p align="center">
@@ -43,8 +42,6 @@ I am a Web Developer.As for the Javascript section on the Frontend, I usually us
 	<img src="https://i.imgur.com/wiYdaql.png" alt="ubuntu" height="40" hspace="10"/>
 	<img src="https://i.imgur.com/8ChUMCl.png" alt="bash" height="40" hspace="10"/>
 	<img src="https://i.imgur.com/O1dfbU2.png" alt="docker" height="40"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fnode-js-what-when-where-why-how-ab8424886e2%2F&psig=AOvVaw18jr3qnQq1aR-K9ih0Yz4-&ust=1600596242106000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDGvuf79OsCFQAAAAAdAAAAABAD" alt="node" height="40"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcreate-react-app.dev%2Fdocs%2Fadding-images-fonts-and-files%2F&psig=AOvVaw3vpRBndVuf3C4FbawaeCqt&ust=1600596322842000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjJpIz89OsCFQAAAAAdAAAAABAD" alt="react" height="40"/>
 </p>
 
 --------
