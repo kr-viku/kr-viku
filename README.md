@@ -27,9 +27,9 @@ I am a Web Developer.As for the Javascript section on the Frontend, I usually us
 
 <h1 align='center'> 
   I’m currently working as a Associate Software Engineer at TrakInvest.</h1>
-
 -----
-### Languages & Framekworks & Whatnots
+### Languages & Framekworks
+
 
 <p align="center">
 	<img title="Python" src="https://i.imgur.com/kYqNRW2.png" height="40"/>
