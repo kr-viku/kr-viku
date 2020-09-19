@@ -23,10 +23,11 @@ I'm a technology enthusiast and love programming.I love to spend most of my time
 I am a Web Developer.As for the Javascript section on the Frontend, I usually use React Framework and NodeJS Express as Backend. I can also use several databases such as Oracle, MySQL, and MongoDB.
 </p>
 
-----------
+-----
 
 <h1 align='center'> 
-  I’m currently working as a Associate Software Engineer at TrakInvest.</h1>
+  I’m currently working as a Associate Software Engineer at TrakInvest.
+	
 -----
 ### Languages & Framekworks
 
