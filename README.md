@@ -25,13 +25,14 @@ I am a Web Developer.As for the Javascript section on the Frontend, I usually us
 
 --------
 
-<h1 align='center'> 
+<p align='center'> 
   I’m currently working as a Associate Software Engineer at TrakInvest.
-</h1>
+</p>
+--------
 	
 ### Languages & Framekworks
 
---------
+
 <p align="center">
 	<img title="Python" src="https://i.imgur.com/kYqNRW2.png" height="40"/>
  	<img title="Java" src="https://i.imgur.com/LDa5yPp.png" height="40" hspace="5"/>
