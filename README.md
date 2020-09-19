@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img title="Coding" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" width=640>
+	<img title="Coding" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" width=440>
 </p>
 
 <p align="center">
@@ -26,9 +26,9 @@ I am a Web Developer.As for the Javascript section on the Frontend, I usually us
 ----------
 
 <h1 align='center'> 
-  I’m currently working as a Associate Software Engineer at TrakInvest.
-</h1>
+  I’m currently working as a Associate Software Engineer at TrakInvest.</h1>
 
+-----
 ### Languages & Framekworks & Whatnots
 
 <p align="center">
@@ -48,7 +48,6 @@ I am a Web Developer.As for the Javascript section on the Frontend, I usually us
 <p align="center">
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=bexxmodd&show_icons=true&theme=synthwave"/>
 </p>
----------
 
 <!--
 **kr-viku/kr-viku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
