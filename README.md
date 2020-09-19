@@ -46,7 +46,7 @@ I am a Web Developer.As for the Javascript section on the Frontend, I usually us
 
 --------
 <p align="center">
-  <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=bexxmodd&show_icons=true&theme=synthwave"/>
+  <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=kr-viku&show_icons=true&theme=synthwave"/>
 </p>
 
 <!--
