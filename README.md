@@ -14,7 +14,8 @@
 
 <h1 align='center'> 
     Hello there, I'm Vikash Kumar. 
-    <img src = "https://dazelpro.com/assets/images/wave.gif" width = "30px">
+    <img src = "https://dazelpro.com/assets/images/wave.gif" width = "30px"><br>
+    I’m currently working as a Associate Software Engineer at TrakInvest.
 </h1>
 <p align='center'>
   Strong engineering professional with a Bachelor of Engineering (B.E.) focused on Information Technology from University Institute of Technology, Burdwan.
@@ -26,9 +27,6 @@ I am a Web Developer.As for the Javascript section on the Frontend, I usually us
 --------
 
 <h1 align='center'> 
-  I’m currently working as a Associate Software Engineer at TrakInvest.
-<br>
-<br>
 	Languages & Framekworks
 </h1>
 
