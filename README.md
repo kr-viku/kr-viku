@@ -25,13 +25,12 @@ I am a Web Developer.As for the Javascript section on the Frontend, I usually us
 
 --------
 
-<p align='center'> 
+<h1 align='center'> 
   I’m currently working as a Associate Software Engineer at TrakInvest.
-</p>
-
---------
-	
-### Languages & Framekworks
+<br>
+<br>
+	Languages & Framekworks
+</h1>
 
 
 <p align="center">
