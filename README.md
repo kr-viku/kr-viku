@@ -1,10 +1,10 @@
 <p float="left">
-<img src="code.png" width="400" height="157" > 
-<img title="Stats" src="https://github-readme-stats.vercel.app/api?username=kr-viku&show_icons=true&theme=synthwave"/ width="400" hspace='40'>
+<img src="code.png" width="465" height="180" > 
+<img title="Stats" src="https://github-readme-stats.vercel.app/api?username=kr-viku&show_icons=true&theme=synthwave"/ width="460" hspace='10'>
 </p>
 
-## Hi there 👋,I'm a Vikash Kumar 
-A Fullstack software developer.
+## Hi there 👋, I'm a Vikash Kumar 
+<B>A Full Stack Software Developer</B>
 
 
 **Languages and Tools:**  
