@@ -1,50 +1,31 @@
+### Vikash Kumar 
 
-<p align="center">
-	<img title="Coding" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" width=440>
-</p>
+Hi there 👋, I'm a fullstack software developer.
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/kr-viku/">
-        	<img alt="linkedin" src="https://i.imgur.com/wcvwfoZ.png" height=50>
-	</a>
-	<a href="https://github.com/kr-viku">
-        	<img alt="github" src="https://i.imgur.com/gnDF5oQ.png" height=50>
-	</a>
-</p>
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<h1 align='center'> 
-    Hello there, I'm Vikash Kumar. 
-    <img src = "https://dazelpro.com/assets/images/wave.gif" width = "30px"><br>
-    I’m currently working as a Associate Software Engineer at TrakInvest.
-</h1>
-<p align='center'>
-  Strong engineering professional with a Bachelor of Engineering (B.E.) focused on Information Technology from University Institute of Technology, Burdwan.
-I'm a technology enthusiast and love programming.I love to spend most of my time on Competitive programming at sites like Codechef, Hackerrank, Codeforces, Topcoder, HackerEarth, LeetCode, etc.
-<br>
-I am a Web Developer.As for the Javascript section on the Frontend, I usually use React Framework and NodeJS Express as Backend. I can also use several databases such as Oracle, MySQL, and MongoDB.
-</p>
+- 🔭 I’m currently working as an Associate Software Engineer at TrakInvest
+- 🌱 I’m currently learning React native 
+- 💬 Ask me about anything
+- 😄 Pronouns: He/Him/They
+- ⚡ Fun fact: Programmers never die!
 
---------
-
-<h1 align='center'> 
-	Languages & Framekworks
-</h1>
+**How to reach me:**  
+- Github: [@kr-viku](https://github.com/kr-viku)
+- Linkedin: [kr-viku](https://www.linkedin.com/in/kr-viku/)
+- Portfolio: [viku.me](https://kr-viku.github.io/portfolio/)
 
 
-<p align="center">
-	<img title="Python" src="https://i.imgur.com/kYqNRW2.png" height="40"/>
- 	<img title="Java" src="https://i.imgur.com/LDa5yPp.png" height="40" hspace="5"/>
-	<img src="https://i.imgur.com/7pTyNw5.png" alt="notebook" height="40" hspace="10"/>
-	<img src="https://i.imgur.com/DRtznPB.png" alt="postgres" height="40" hspace="10"/>
-	<img src="https://i.imgur.com/DG1ai5x.png" alt="mysql" height="40" hspace="10"/>
- 	<img src="https://i.imgur.com/2f8ghU7.png" alt="git" height="40" hspace="10"/>
-	<img src="https://i.imgur.com/ZjwYyO4.png" alt="manjaro" height="40" hspace="10"/>
-	<img src="https://i.imgur.com/wiYdaql.png" alt="ubuntu" height="40" hspace="10"/>
-	<img src="https://i.imgur.com/8ChUMCl.png" alt="bash" height="40" hspace="10"/>
-	<img src="https://i.imgur.com/O1dfbU2.png" alt="docker" height="40"/>
-</p>
-
---------
 <p align="center">
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=kr-viku&show_icons=true&theme=synthwave"/>
 </p>
