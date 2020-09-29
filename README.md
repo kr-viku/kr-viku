@@ -1,4 +1,8 @@
-<img src="code.png" width="400">
+<p float="left">
+<img src="code.png" width="400" height="157" > 
+<img title="Stats" src="https://github-readme-stats.vercel.app/api?username=kr-viku&show_icons=true&theme=synthwave"/ width="400" hspace='40'>
+</p>
+
 ## Hi there 👋,I'm a Vikash Kumar 
 A Fullstack software developer.
 
@@ -30,9 +34,7 @@ A Fullstack software developer.
 - Portfolio: [viku.me](https://kr-viku.github.io/portfolio/)
 
 
-<p>
-  <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=kr-viku&show_icons=true&theme=synthwave"/>
-</p>
+
 
 <!--
 **kr-viku/kr-viku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
