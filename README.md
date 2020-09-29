@@ -32,6 +32,7 @@
 - Github: [kr-viku](https://github.com/kr-viku)
 - Linkedin: [kr-viku](https://www.linkedin.com/in/kr-viku/)
 - Portfolio: [viku.me](https://kr-viku.github.io/portfolio/)
+- Twitter: [spyviku](https://twitter.com/spyviku)
 
 
 
