@@ -1,6 +1,6 @@
 ## Vikash Kumar 
-Hi there 👋, I'm a fullstack software developer.
-<p></p>
+
+### Hi there 👋, I'm a fullstack software developer.
 
 
 **Languages and Tools:**  
@@ -14,6 +14,8 @@ Hi there 👋, I'm a fullstack software developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<img align='right' src="code.jpg" width="230">
 
 - 🔭 I’m currently working as an Associate Software Engineer at TrakInvest
 - 🌱 I’m currently learning React native 
