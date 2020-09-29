@@ -21,12 +21,12 @@ Hi there 👋, I'm a fullstack software developer.
 - ⚡ Fun fact: Programmers never die!
 
 **How to reach me:**  
-- Github: [@kr-viku](https://github.com/kr-viku)
+- Github: [kr-viku](https://github.com/kr-viku)
 - Linkedin: [kr-viku](https://www.linkedin.com/in/kr-viku/)
 - Portfolio: [viku.me](https://kr-viku.github.io/portfolio/)
 
 
-<p align="center">
+<p>
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=kr-viku&show_icons=true&theme=synthwave"/>
 </p>
 
