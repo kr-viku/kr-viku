@@ -1,9 +1,6 @@
-
-<img src="code.jpg" width="830">
-
-## Vikash Kumar 
-
-### Hi there 👋, I'm a fullstack software developer.
+## Hi there 👋,I'm a Vikash Kumar 
+<img align='right' src="code.png" width="400">
+A Fullstack software developer.
 
 
 **Languages and Tools:**  
@@ -17,6 +14,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 
 - 🔭 I’m currently working as an Associate Software Engineer at TrakInvest
