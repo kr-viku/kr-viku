@@ -1,5 +1,5 @@
+<img src="code.png" width="400">
 ## Hi there 👋,I'm a Vikash Kumar 
-<img align='right' src="code.png" width="400">
 A Fullstack software developer.
 
 
