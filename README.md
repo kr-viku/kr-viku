@@ -1,7 +1,7 @@
 ## Vikash Kumar 
 
-Hi there 👋, I'm a fullstack software developer.
------
+<h2>Hi there 👋, I'm a fullstack software developer.</h2>
+
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -20,6 +20,7 @@ Hi there 👋, I'm a fullstack software developer.
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him/They
 - ⚡ Fun fact: Programmers never die!
+
 
 **How to reach me:**  
 - Github: [kr-viku](https://github.com/kr-viku)
