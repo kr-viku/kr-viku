@@ -1,5 +1,6 @@
 ## Vikash Kumar 
-<h2>Hi there 👋, I'm a fullstack software developer.</h2>
+Hi there 👋, I'm a fullstack software developer.
+<hr></hr>
 
 
 **Languages and Tools:**  
