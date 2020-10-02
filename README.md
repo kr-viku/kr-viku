@@ -31,7 +31,7 @@
 **How to reach me:**  
 - Github: [kr-viku](https://github.com/kr-viku)
 - Linkedin: [kr-viku](https://www.linkedin.com/in/kr-viku/)
-- Portfolio: [viku.me](https://kr-viku.github.io/portfolio/)
+- Portfolio: [spykoder.ml](https://spykoder.ml/)
 - Twitter: [spyviku](https://twitter.com/spyviku)
 
 
