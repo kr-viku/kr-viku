@@ -27,6 +27,9 @@
 - 😄 Pronouns: He/Him/They
 - ⚡ Fun fact: Programmers never die!
 
+[![@krviku's Holopin board](https://holopin.io/api/user/board?user=krviku)](https://holopin.io/@krviku)
+
+
 
 **How to reach me:**  
 - Github: [kr-viku](https://github.com/kr-viku)
